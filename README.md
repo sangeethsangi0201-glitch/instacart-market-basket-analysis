@@ -28,7 +28,7 @@ An end-to-end customer analytics and machine learning pipeline built on Instacar
 * **Replenishment Cycles:** Sharp ordering spikes occur at **7 days (weekly)**, **14 days (bi-weekly)**, and **30 days (monthly)**.
 * **Habitual Cart Ordering:** The **1st item added to the cart has a ~68% reorder probability**, declining steadily as impulse/discovery items are added later.
 
-<img src="https://githubusercontent.com" alt="Association Rules Lift"
+![EDA Customer Shopping Patterns](01.instacart_EDA%20%26%20DATA_prep.png)
 ---
 
 ### 2. Market Basket Analysis (FP-Growth Association Rules)
