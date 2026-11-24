@@ -38,7 +38,7 @@ An end-to-end customer analytics and machine learning pipeline built on Instacar
   * *Organic Yellow Onion ↔ Organic Garlic* (**Lift: 4.17**)
   * *Strawberries ↔ Raspberries* (**Lift: 3.45**)
 
-![Association Rules Lift](02.%20Market%20Basket%20Analysis%20(Association%20Rules)(FP_Growth%26Generate%20Association%20Rule).png)
+![Association Rules Lift](02_association_rules_lift.png)
 
 ---
 
