@@ -39,7 +39,6 @@ An end-to-end customer analytics and machine learning pipeline built on Instacar
   * *Strawberries ↔ Raspberries* (**Lift: 3.45**)
 
 ![Association Rules Lift](02_association_rules_lift.png)
-
 ---
 
 ### 3. Customer Segmentation (PCA + K-Means Clustering)
